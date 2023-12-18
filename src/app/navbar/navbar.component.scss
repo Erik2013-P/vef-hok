@@ -1,0 +1,17 @@
+ul {
+    background-color: rgb(36, 108, 163);
+    img {
+        width: 5%;
+    }
+    span li {
+        display: inline;
+        justify-content: space-between;
+        
+        padding: 16px 14px;
+        a {
+            
+            color: white;
+            text-decoration: none;
+        }
+    }
+}
